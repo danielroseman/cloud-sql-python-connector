@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/compare/v1.3.0...v1.3.1) (2023-07-26)
+
+
+### Dependencies
+
+* Update actions/setup-python action to v4.7.0 ([#794](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/issues/794)) ([cf0f2a1](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/commit/cf0f2a1232dc7fab5578bbb4c38c4fb2654ef45e))
+* Update dependency aiohttp to v3.8.5 ([#801](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/issues/801)) ([7ed23d0](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/commit/7ed23d00fabeb6cda498c64bb994fe7e6a0f4a2e))
+
 ## [1.3.0](https://github.com/GoogleCloudPlatform/cloud-sql-python-connector/compare/v1.2.4...v1.3.0) (2023-07-11)
 
 
